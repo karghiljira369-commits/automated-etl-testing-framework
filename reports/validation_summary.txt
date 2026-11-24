@@ -1,0 +1,6 @@
+
+=== ETL VALIDATION REPORT ===
+Total Records: 10
+Valid Records: 8
+Invalid Records: 2
+Total Valid Sales: 134300

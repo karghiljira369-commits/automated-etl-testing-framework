@@ -1,0 +1,9 @@
+=== DAY 2 ETL VALIDATION REPORT ===
+Total records: 14
+Valid records: 8
+Invalid records: 6
+Missing customers: 1
+Missing products: 1
+Duplicate IDs: 1
+Invalid amounts: 3
+Total valid sales: 134300.0

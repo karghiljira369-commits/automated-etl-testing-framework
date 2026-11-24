@@ -1,0 +1,7 @@
+transaction_id,customer_name,product,amount,issues
+105,Kumar,Headphones,-500,Invalid amount; 
+107,Rahul,Mouse,0,Invalid amount; 
+111,,Webcam,4000,Missing customer; 
+112,Sara,,750,Missing product; 
+103,Kiran,USB Cable,200,Duplicate ID; 
+113,Vijay,Charger,abc,Invalid amount; 
